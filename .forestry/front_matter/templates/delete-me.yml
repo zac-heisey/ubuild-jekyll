@@ -1,12 +1,14 @@
 ---
 label: DELETE ME
-hide_body: true
+hide_body: false
 fields:
 - name: block
   type: blocks
   label: block
   template_types:
   - simple-footer
+  - delete-me
+  - 2-column-text
   config:
     min: 
     max: 
