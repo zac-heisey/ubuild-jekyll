@@ -4,7 +4,7 @@ hide_body: false
 fields:
 - name: block
   type: blocks
-  label: block
+  label: blockBISCH
   template_types:
   - simple-footer
   - delete-me
