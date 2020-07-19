@@ -3,14 +3,12 @@ label: DELETE ME
 hide_body: true
 fields:
 - name: block
-  type: blocks
-  label: blockBISCH
-  template_types:
-  - simple-footer
-  - 2-column-text
+  type: text
   config:
-    min: 
-    max: 
+    required: false
+  label: block
+  hidden: true
+  default: ''
 - name: colors
   type: color
   label: colors
