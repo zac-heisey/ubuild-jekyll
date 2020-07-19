@@ -7,7 +7,6 @@ fields:
   label: blockBISCH
   template_types:
   - simple-footer
-  - delete-me
   - 2-column-text
   config:
     min: 
