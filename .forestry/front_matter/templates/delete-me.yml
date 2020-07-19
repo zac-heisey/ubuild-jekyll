@@ -1,6 +1,6 @@
 ---
 label: DELETE ME
-hide_body: false
+hide_body: true
 fields:
 - name: block
   type: blocks
@@ -12,3 +12,9 @@ fields:
   config:
     min: 
     max: 
+- name: colors
+  type: color
+  label: colors
+  config:
+    required: false
+    color_format: Hex
